@@ -1,5 +1,5 @@
 # A simple table and form design using HTML and CSS
-This is a biggner project back when I was just starting my web development career
+This is a beginner project back when I was just starting my web development career
 
 ## What I Have Learned
 * How to display data in a table
